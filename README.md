@@ -1,5 +1,8 @@
 ## Hi there 👋
+<h1 align="center">Hi 👋, I'm KHINE LIN HTIGHT</h1>
+<h3 align="center">I’m software developer</h3>
 
+- 📫 How to reach me **khinelinhtigth@gmail.com**
 <!--
 **khinelinhtight/khinelinhtight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
