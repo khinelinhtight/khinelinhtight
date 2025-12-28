@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm KHINE LIN HTIGHT</h1>
 <h3 align="center">I’m software developer</h3>
 
-- 📫 Contact me **khinelinhtigth@gmail.com** 
+<!-- - 📫 Contact me **khinelinhtigth@gmail.com** -->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
